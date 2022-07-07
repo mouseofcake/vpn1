@@ -7,15 +7,9 @@
     "size":""
   }],
   "blocked":[
-    {"id":0, "app":"com.android.game"},
-    {"id":1, "app":"com.utorrent.client"},
-    {"id":2, "app":"com.torrent.client"},
-    {"id":3, "app":"com.tor.client"},
-    {"id":4, "app":"com.insta.client"},
-    {"id":5, "app":"com.facebook.client"},
-    {"id":6, "app":"com.get.client"}
+    {"id":0, "app":""},
   ],
   "free":[
-    {"id":0, "file":0, "city":"United States","country":"United States","image":"unitedstates","ip":"34.94.202.74","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"Seattle","country":"United States","image":"unitedstates","ip":"144.202.93.168","active":"true","signal":"a"},
   ]
 }
